@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-41090a200/" target="_blank">
+  <a href="https://www.linkedin.com/in/amaninprod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-aman--kumar--41090a200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aman04012000@gmail.com">
@@ -161,7 +161,7 @@ Frontend: `http://localhost:3000`
 **Aman Kumar** — Full Stack Developer | AI Engineer
 
 📧 aman04012000@gmail.com &nbsp;•&nbsp; 📱 +91-7462933412 &nbsp;•&nbsp; 🇮🇳 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-41090a200/) &nbsp;•&nbsp; [GitHub](https://github.com/Aman-746)
+🔗 [LinkedIn](https://www.linkedin.com/in/amaninprod/) &nbsp;•&nbsp; [GitHub](https://github.com/Aman-746)
 
 ---
 
